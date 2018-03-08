@@ -1,2 +1,2 @@
 # yaam
-Yet Another Authorization Microservice
+Yet Another Authorization Microservice.
